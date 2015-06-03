@@ -1,0 +1,24 @@
+body {
+    background-color: lightskyblue;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    background: url('img/bk-img.jpg') no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.game {
+    text-align: center;
+    margin: 30px auto;
+}
+
+.game label {
+    color: purple;
+    font-size: 30px;
+    display: block;
+}
